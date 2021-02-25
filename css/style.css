@@ -1,8 +1,5 @@
-h3 {
+body {
+  background-color: #25e93f;
+  color: #0a0ef0;
   font-size: 25px;
-  color: brown;
-}
-
-h1 {
-  color: deeppink;
 }
